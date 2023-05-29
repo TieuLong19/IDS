@@ -1,0 +1,7 @@
+C:\Users\94ngu\Downloads\ProjectIDS_Test\obj\Debug\ProjectIDS.csproj.AssemblyReference.cache
+C:\Users\94ngu\Downloads\ProjectIDS_Test\obj\Debug\ProjectIDS.csproj.SuggestedBindingRedirects.cache
+C:\Users\94ngu\Downloads\ProjectIDS_Test\obj\Debug\ProjectIDS.Form1.resources
+C:\Users\94ngu\Downloads\ProjectIDS_Test\obj\Debug\ProjectIDS.MainForm.resources
+C:\Users\94ngu\Downloads\ProjectIDS_Test\obj\Debug\ProjectIDS.Properties.Resources.resources
+C:\Users\94ngu\Downloads\ProjectIDS_Test\obj\Debug\ProjectIDS.csproj.GenerateResource.cache
+C:\Users\94ngu\Downloads\ProjectIDS_Test\obj\Debug\ProjectIDS.csproj.CoreCompileInputs.cache
